@@ -1,0 +1,95 @@
+:root {
+    --color-brand: #78b159;
+    --color-links: var(--color-brand);
+    --radius: 0.4rem;
+    --vh: 100vh;
+}
+
+#content a:not(.toc-backref) {
+    text-decoration: none;
+    color: var(--color-links);
+}
+
+#left-sidebar a {
+    text-decoration: none !important;
+    padding: .5rem 1rem !important;
+    transition: .2s linear !important;
+}
+
+#left-sidebar a:hover {background-color: hsl(var(--accent))}
+
+.reference.external svg {display: none !important}
+.reference.external svg:first-child {display: inline !important}
+
+a.headerlink {display: none}
+pre {padding: 1rem}
+.max-h-\[calc\(var\(--vh\)-4rem\)\] {height: 100%}
+.toctree-l1, .toctree-l2 {margin-top: 0.5rem}
+.toctree-l1:first-child, .toctree-l2:first-child {margin-top: 0}
+.rounded-\[0\.5rem\] {border-radius: 0.4rem}
+
+.reference.internal {
+    display: flex;
+    justify-content: space-between;
+}
+
+.reference.internal.current {background-color: var(--color-brand) !important}
+
+::-webkit-scrollbar {
+    width: 0.6vw;
+    height: 0.6vw;
+}
+
+::-webkit-scrollbar-track {background-color: transparent}
+
+::-webkit-scrollbar-thumb {
+    background-color: hsl(var(--accent));
+    border: 0.2vw solid hsl(var(--background));
+    border-radius: 1vw;
+}
+
+h6 {
+    font-size: 0.9rem;
+    font-weight: 700;
+    line-height: 0.9rem;
+    color: hsl(var(--muted-foreground));
+    margin-top: 1.5rem;
+}
+
+.sd-tab-content>:last-child {margin-top: 0.5rem !important}
+
+.sd-tab-content {
+    box-shadow: 0 -0.0625rem var(--sd-color-tabs-overline) !important;
+    padding-bottom: 0 !important;
+}
+
+ul.simple {margin-top: 0.5rem !important}
+ul.simple li {margin-top: 0.5rem !important}
+ul.simple li p {margin-top: 0 !important}
+
+img {border-radius: 0.4rem}
+
+.admonition {border-width: 2px !important}
+.admonition .admonition-title {
+    font-weight: 700 !important;
+    font-size: .9em !important;
+}
+
+.admonition p:not(.admonition-title) {margin-top: .3rem !important}
+
+code.key {
+    background-color: var(--color-brand);
+    padding: .2rem .5rem !important;
+}
+
+.mod-links {display: flex}
+.mod-links a {margin-right: 2rem}
+
+.btn-image {
+    display: inline-block;
+    height: 1.5em;
+    margin-top: 0 !important;
+    border-radius: 0 !important;
+}
+
+.hide {display: none}
