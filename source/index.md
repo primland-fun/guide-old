@@ -20,3 +20,11 @@ mods
 resource_pack
 features
 :::
+
+:::{toctree}
+:caption: Администрации
+:glob:
+:hidden:
+
+admin/*
+:::

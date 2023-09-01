@@ -102,3 +102,16 @@ kbd.compound kbd:last-child {margin-left: -.2em}
 }
 
 .hide {display: none}
+
+blockquote {
+    font-style: normal;
+    color: hsl(var(--muted-foreground));
+    border-left-color: hsl(var(--muted-foreground)) !important;
+    padding-left: 1rem !important;
+    margin-top: .5rem !important
+}
+
+li blockquote {margin-top: -1rem !important}
+blockquote ol {margin-top: .5rem !important}
+blockquote li {margin-top: .2rem !important}
+blockquote li p {margin-top: 0 !important}
