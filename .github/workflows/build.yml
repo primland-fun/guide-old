@@ -49,7 +49,7 @@ jobs:
     runs-on: ubuntu-latest
     name: "Загрузка на GitHub Pages"
     needs: [build]
-    if: ${{ github.event == 'push' }}
+    if: ${{ github.event.action == 'push' }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
