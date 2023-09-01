@@ -7,7 +7,7 @@
 Он добавляет такую возможность. В прочем, Вы не обязаны его скачивать. Просто
 рекомендация!
 
-![Иконки Plasmo Voice](/_static/images/mods/plasmo_voice/player_icons.webp)
+![Иконки Plasmo Voice](/_static/images/mods/plasmo_voice/player_icons.png)
 
 <p class="mod-links">
     <a class="reference external" target="_blank" href="https://modrinth.com/plugin/plasmo-voice" rel="nofollow noopener">

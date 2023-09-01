@@ -77,3 +77,7 @@
 Если Вы хотите изменить громкость или полностью выключить голоса другого игрока, то
 зайдите во вкладку ![`Громкость`](../../_static/images/mods/plasmo_voice/settings_volume_tab.png){.btn-image}
 :::
+
+## Иконки
+![Иконки Plasmo Voice](../../_static/images/mods/plasmo_voice/player_icons.png)
+![HUD-иконки Plasmo Voice](../../_static/images/mods/plasmo_voice/hud_icons.png)
