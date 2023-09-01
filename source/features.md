@@ -4,4 +4,5 @@
 ## Содержимое
 :::{toctree}
 features/generation
+features/small
 :::
