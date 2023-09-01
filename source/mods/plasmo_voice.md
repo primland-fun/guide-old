@@ -8,7 +8,7 @@
 
 ## Как настроить
 Нажмите на клавишу, на которую у Вас назначено открытие меню Plasmo Voice
-(<code class="key">V</code> по умолчанию)
+({kbd}`V` по умолчанию)
 
 :::{figure-md}
 ![Настройки](../../_static/images/mods/plasmo_voice/settings.png)
