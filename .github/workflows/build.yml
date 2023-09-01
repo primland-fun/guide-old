@@ -3,6 +3,8 @@ name: Сборка
 on:
   push:
     branches: ["main"]
+  
+  pull_request:
 
 permissions:
   contents: read
@@ -25,8 +27,9 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: "3.8"
+          cache: "pip"
 
-      - name: Устанавлиаем зависимости
+      - name: Устанавливаем зависимости
         run: |
           python -m pip install --upgrade pip setuptools wheel
           pip install -U -r requirements.txt
@@ -46,6 +49,7 @@ jobs:
     runs-on: ubuntu-latest
     name: "Загрузка на GitHub Pages"
     needs: [build]
+    if: 'github.event == "push"'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
