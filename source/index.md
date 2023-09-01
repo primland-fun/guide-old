@@ -15,6 +15,6 @@
 :glob:
 :hidden:
 
-how_to_play
+how_to_join
 mods
 :::
