@@ -6,6 +6,7 @@
 }
 
 #content a:not(.toc-backref) {
+    display: inline;
     text-decoration: none;
     color: var(--color-links);
 }
@@ -21,7 +22,7 @@
 .reference.external svg {display: none !important}
 .reference.external svg:first-child {display: inline !important}
 
-a.headerlink {display: none}
+a.headerlink {display: none !important}
 pre {padding: 1rem}
 .max-h-\[calc\(var\(--vh\)-4rem\)\] {height: 100%}
 .toctree-l1, .toctree-l2 {margin-top: 0.5rem}
@@ -54,6 +55,7 @@ h6 {
     line-height: 0.9rem;
     color: hsl(var(--muted-foreground));
     margin-top: 1.5rem;
+    margin-bottom: -1.2rem;
 }
 
 .sd-tab-content>:last-child {margin-top: 0.5rem !important}
