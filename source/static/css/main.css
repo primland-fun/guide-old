@@ -35,6 +35,7 @@ pre {padding: 1rem}
 }
 
 .reference.internal.current {background-color: var(--color-brand) !important}
+.reference.internal.current button svg {color: #FFFFFF !important}
 
 ::-webkit-scrollbar {
     width: 0.6vw;
