@@ -1,6 +1,6 @@
 # Emotecraft
 Мод на эмоции... прямо как в реальной жизни!
-![Демонстрация](../../_static/images/mods/emotecraft/demo.webp)
+![Демонстрация](../_static/images/mods/emotecraft/demo.webp)
 
 <p class="mod-links">
     <a class="reference external" target="_blank" href="https://modrinth.com/mod/emotecraft" rel="nofollow noopener">
@@ -18,10 +18,10 @@
 </p>
 
 ## Как использовать
-1. Нажмите на клавишу открытия меню Emotecraft (по умолчанию <code class="key">B</code> (англ.))
-2. Кликните по кнопке <code class="key">Все эмоции</code> в правом нижнем углу, а
-   затем на <code class="key">Настройка эмоций</code>, чтобы настроить мод.
+1. Нажмите на клавишу открытия меню Emotecraft (по умолчанию {kbd}`B` (англ.)).
+2. Кликните по кнопке {kbd}`Все эмоции` в правом нижнем углу, а
+   затем на {kbd}`Настройка эмоций`, чтобы настроить мод.
 3. Нажмите по эмоции, а затем по месту в круге эмоций.
-4. Нажмите кнопку <code class="key">Готово</code> и снова нажмите <code class="key">B</code>,
+4. Нажмите кнопку {kbd}`Готово` и снова нажмите {kbd}`B`,
    чтобы открыть меню эмоций.
 5. Чтобы установить больше эмоций, скачайте их, а затем положите в папку `.minecraft/emotes`

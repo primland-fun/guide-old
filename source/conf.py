@@ -18,7 +18,7 @@ language = "ru"
 # -- Options for HTML output -------------------------------------------------
 html_theme = "sphinxawesome_theme"
 pygments_style = "one-dark"
-html_static_path = ["static"]
+html_static_path = ["_static"]
 
 html_theme_options = {
     "show_prev_next": True,
@@ -36,5 +36,5 @@ html_theme_options = {
 }
 
 html_css_files = ["css/main.css"]
-html_favicon = "static/images/favicon.png"
+html_favicon = "_static/images/favicon.png"
 html_sidebars = {"**": ["sidebar_main_nav_links.html", "sidebar_toc.html"]}

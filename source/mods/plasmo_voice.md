@@ -7,11 +7,10 @@
 </a>
 
 ## Как настроить
-Нажмите на клавишу, на которую у Вас назначено открытие меню Plasmo Voice
-(по умолчанию <code class="key">V</code>)
+Нажмите на клавишу, на которую у Вас назначено открытие меню Plasmo Voice (по умолчанию {kbd}`V`)
 
 :::{figure-md}
-![Настройки](../../_static/images/mods/plasmo_voice/settings.png)
+![Настройки](../_static/images/mods/plasmo_voice/settings.png)
 
 Примерный вид окна настроек
 :::
@@ -19,64 +18,64 @@
 ### Чтобы говорить...
 Если у Вас есть возможность говорить, то нужно кое-что настроить:
 :::{figure-md}
-![Порог активации](../../_static/images/mods/plasmo_voice/settings_threshold.png)
+![Порог активации](../_static/images/mods/plasmo_voice/settings_threshold.png)
 
 Поставьте значение параметра `Порог активации` на такое значение, при котором Вас
-будет максимально хорошо слышно. (Чтобы послушать себя, нажмите на ![кнопка прослушки](../../_static/images/mods/plasmo_voice/speaker_disabled.png){.btn-image})
+будет максимально хорошо слышно. (Чтобы послушать себя, нажмите на ![кнопка прослушки](../_static/images/mods/plasmo_voice/speaker_disabled.png){.btn-image})
 :::
 
 :::{figure-md}
-![Микрофон](../../_static/images/mods/plasmo_voice/settings_device.png)
+![Микрофон](../_static/images/mods/plasmo_voice/settings_device.png)
 
 Далее, Вам нужно выбрать основной микрофон, которым Вы будете пользоваться.
 :::
 
 :::{figure-md}
-![Другое](../../_static/images/mods/plasmo_voice/settings_other.png)
+![Другое](../_static/images/mods/plasmo_voice/settings_other.png)
 
 Также настройте эти три параметра так, чтобы Вас было слышно как можно лучше.
 :::
 
-После этого перейдите во вкладку ![`Активации`](../../_static/images/mods/plasmo_voice/settings_activation_tab.png){.btn-image}
+После этого перейдите во вкладку ![`Активации`](../_static/images/mods/plasmo_voice/settings_activation_tab.png){.btn-image}
 :::{figure-md}
-![Тип активации](../../_static/images/mods/plasmo_voice/settings_activation_type.png)
+![Тип активации](../_static/images/mods/plasmo_voice/settings_activation_type.png)
 
 Здесь мы рекомендуем выбрать `Голос`, чтобы Вам не приходилось зажимать клавишу для активации микрофона.
 :::
 
 :::{figure-md}
-![Вкл. микрофон](../../_static/images/mods/plasmo_voice/settings_activation_button.png)
+![Вкл. микрофон](../_static/images/mods/plasmo_voice/settings_activation_button.png)
 
 А тут укажите клавишу, по нажатию которой будет включаться Ваш микрофон
 (только в Minecraft!)
 :::
 
-И наконец перейдите во вкладку ![`Клавиши`](../../_static/images/mods/plasmo_voice/settings_keys_tab.png){.btn-image}
+И, наконец, перейдите во вкладку ![`Клавиши`](../_static/images/mods/plasmo_voice/settings_keys_tab.png){.btn-image}
 :::{figure-md}
-![Выкл. микрофон](../../_static/images/mods/plasmo_voice/settings_turn_off_button.png)
+![Выкл. микрофон](../_static/images/mods/plasmo_voice/settings_turn_off_button.png)
 
-В этом месте рекомендуем поставить ту же клавишу, что и во вкладке ![`Активации`](../../_static/images/mods/plasmo_voice/settings_activation_tab.png){.btn-image}
+В этом месте рекомендуем поставить ту же клавишу, что и во вкладке ![`Активации`](../_static/images/mods/plasmo_voice/settings_activation_tab.png){.btn-image}
 :::
 
 ### Чтобы слушать...
 Чтобы слышать других людей, настройте следущие параметры:
 :::{figure-md}
-![Другое](../../_static/images/mods/plasmo_voice/settings_output_device.png)
+![Другое](../_static/images/mods/plasmo_voice/settings_output_device.png)
 
 Сначала выберите свои колонки или наушники здесь.
 :::
 
 :::{figure-md}
-![Другое](../../_static/images/mods/plasmo_voice/settings_output_other.png)
+![Другое](../_static/images/mods/plasmo_voice/settings_output_other.png)
 
 Здесь настройте всё на свой вкус.
 :::
 
 :::{note}
 Если Вы хотите изменить громкость или полностью выключить голоса другого игрока, то
-перейдите на вкладку ![`Громкость`](../../_static/images/mods/plasmo_voice/settings_volume_tab.png){.btn-image}
+перейдите на вкладку ![`Громкость`](../_static/images/mods/plasmo_voice/settings_volume_tab.png){.btn-image}
 :::
 
 ## Иконки
-![Иконки Plasmo Voice](../../_static/images/mods/plasmo_voice/player_icons.png)
-![HUD-иконки Plasmo Voice](../../_static/images/mods/plasmo_voice/hud_icons.png)
+![Иконки Plasmo Voice](../_static/images/mods/plasmo_voice/player_icons.png)
+![HUD-иконки Plasmo Voice](../_static/images/mods/plasmo_voice/hud_icons.png)

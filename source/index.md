@@ -18,4 +18,5 @@
 how_to_join
 mods
 resource_pack
+features
 :::

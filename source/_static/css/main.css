@@ -80,10 +80,16 @@ img {border-radius: 0.4rem}
 
 .admonition p:not(.admonition-title) {margin-top: .3rem !important}
 
-code.key {
-    background-color: var(--color-brand);
+kbd {
+    background-color: var(--color-brand) !important;
+    border: none !important;
+    border-radius: 0.2em !important;
     padding: .2rem .5rem !important;
+    color: #FFFFFF !important;
 }
+
+kbd.compound kbd {padding: 0 !important}
+kbd.compound kbd:last-child {margin-left: -.2em}
 
 .mod-links {display: flex}
 .mod-links a {margin-right: 2rem}
