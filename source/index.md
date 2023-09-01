@@ -26,5 +26,8 @@ features
 :glob:
 :hidden:
 
-admin/*
+admin/admin
+admin/guidelines
+admin/rules
+admin/commands
 :::
