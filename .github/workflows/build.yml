@@ -38,7 +38,6 @@ jobs:
       - name: Собираем гайд
         shell: bash
         run: |
-          cd docs
           sphinx-build -M html source build
 
       - name: Загружаем артефакт
