@@ -1,6 +1,6 @@
 # Emotecraft
 Мод на эмоции... прямо как в реальной жизни!
-![Демонстрация](../../_static/images/mods/emotecraft/demo.webp)
+![Демонстрация](../_static/images/mods/emotecraft/demo.webp)
 
 <p class="mod-links">
     <a class="reference external" target="_blank" href="https://modrinth.com/mod/emotecraft" rel="nofollow noopener">

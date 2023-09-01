@@ -11,7 +11,7 @@
 ({kbd}`V` по умолчанию)
 
 :::{figure-md}
-![Настройки](../../_static/images/mods/plasmo_voice/settings.png)
+![Настройки](../_static/images/mods/plasmo_voice/settings.png)
 
 Примерный вид окна настроек
 :::
@@ -19,65 +19,65 @@
 ### Чтобы говорить
 Если Вы собираетесь говорить, то нужно настроить некоторые моменты:
 :::{figure-md}
-![Порог активации](../../_static/images/mods/plasmo_voice/settings_threshold.png)
+![Порог активации](../_static/images/mods/plasmo_voice/settings_threshold.png)
 
 Поставьте значение параметра `Порог активации` на таком значение, на котором Вас
-будет максимально хорошо слышно. (Чтобы послушать себя нажмите на ![кнопка](../../_static/images/mods/plasmo_voice/speaker_disabled.png){.btn-image})
+будет максимально хорошо слышно. (Чтобы послушать себя нажмите на ![кнопка](../_static/images/mods/plasmo_voice/speaker_disabled.png){.btn-image})
 :::
 
 :::{figure-md}
-![Микрофон](../../_static/images/mods/plasmo_voice/settings_device.png)
+![Микрофон](../_static/images/mods/plasmo_voice/settings_device.png)
 
 Далее, Вам стоит выбрать свой микрофон как устройство ввода
 :::
 
 :::{figure-md}
-![Другое](../../_static/images/mods/plasmo_voice/settings_other.png)
+![Другое](../_static/images/mods/plasmo_voice/settings_other.png)
 
 Дальше настройте эти 3 параметра так, чтобы Вас было слышно как можно лучше
 :::
 
-После этого перейдите во вкладку ![`Активации`](../../_static/images/mods/plasmo_voice/settings_activation_tab.png){.btn-image}
+После этого перейдите во вкладку ![`Активации`](../_static/images/mods/plasmo_voice/settings_activation_tab.png){.btn-image}
 :::{figure-md}
-![Тип активации](../../_static/images/mods/plasmo_voice/settings_activation_type.png)
+![Тип активации](../_static/images/mods/plasmo_voice/settings_activation_type.png)
 
 Здесь мы рекомендуем выбрать `Голос`, т.к. иначе Вам прийдётся зажимать клавишу, чтобы
 говорить
 :::
 
 :::{figure-md}
-![Вкл. микрофон](../../_static/images/mods/plasmo_voice/settings_activation_button.png)
+![Вкл. микрофон](../_static/images/mods/plasmo_voice/settings_activation_button.png)
 
 А тут укажите клавишу, по нажатию которой будет включаться Ваш микрофон
 (только в Minecraft!)
 :::
 
-И на конец перейдите во вкладку ![`Клавиши`](../../_static/images/mods/plasmo_voice/settings_keys_tab.png){.btn-image}
+И на конец перейдите во вкладку ![`Клавиши`](../_static/images/mods/plasmo_voice/settings_keys_tab.png){.btn-image}
 :::{figure-md}
-![Выкл. микрофон](../../_static/images/mods/plasmo_voice/settings_turn_off_button.png)
+![Выкл. микрофон](../_static/images/mods/plasmo_voice/settings_turn_off_button.png)
 
-В этом месте рекомендуем поставить ту же клавишу, что и во вкладке ![`Активации`](../../_static/images/mods/plasmo_voice/settings_activation_tab.png){.btn-image}
+В этом месте рекомендуем поставить ту же клавишу, что и во вкладке ![`Активации`](../_static/images/mods/plasmo_voice/settings_activation_tab.png){.btn-image}
 :::
 
 ### Чтобы слушать
 Чтобы слышать других людей, настройте следущие параметры:
 :::{figure-md}
-![Другое](../../_static/images/mods/plasmo_voice/settings_output_device.png)
+![Другое](../_static/images/mods/plasmo_voice/settings_output_device.png)
 
 Сначала выберите свои колонки или наушники здесь
 :::
 
 :::{figure-md}
-![Другое](../../_static/images/mods/plasmo_voice/settings_output_other.png)
+![Другое](../_static/images/mods/plasmo_voice/settings_output_other.png)
 
 Здесь настройте так, как вам нравится.
 :::
 
 :::{note}
 Если Вы хотите изменить громкость или полностью выключить голоса другого игрока, то
-зайдите во вкладку ![`Громкость`](../../_static/images/mods/plasmo_voice/settings_volume_tab.png){.btn-image}
+зайдите во вкладку ![`Громкость`](../_static/images/mods/plasmo_voice/settings_volume_tab.png){.btn-image}
 :::
 
 ## Иконки
-![Иконки Plasmo Voice](../../_static/images/mods/plasmo_voice/player_icons.png)
-![HUD-иконки Plasmo Voice](../../_static/images/mods/plasmo_voice/hud_icons.png)
+![Иконки Plasmo Voice](../_static/images/mods/plasmo_voice/player_icons.png)
+![HUD-иконки Plasmo Voice](../_static/images/mods/plasmo_voice/hud_icons.png)
