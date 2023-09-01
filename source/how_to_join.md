@@ -24,6 +24,7 @@
 играть!
 
 :::{note}
+:::{note}
 Если у Вас появились какие-либо проблемы, например, с покупкой проходки, то откройте тикет для получения
 поддержки на нашем 
 <a class="reference external" target="_blank" href="https://discord.gg/p3hRBChwDK" rel="nofollow noopener">
