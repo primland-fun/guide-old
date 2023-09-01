@@ -1,3 +1,6 @@
 @ECHO OFF
 rmdir /s /q build
-.\make.bat html
+cmd /c .\make.bat html
+rmdir /s /q build\html\_static\images
+rmdir /s /q build\html\_sources
+del /s /q build\html\*LICENSE*
