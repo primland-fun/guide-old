@@ -43,7 +43,7 @@ jobs:
       - name: Загружаем артефакт
         uses: actions/upload-pages-artifact@v1
         with:
-          path: "./docs/build/html"
+          path: "./build/html"
 
   deploy:
     runs-on: ubuntu-latest
