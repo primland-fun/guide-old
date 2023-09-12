@@ -10,10 +10,7 @@
 :link: guidelines
 :link-type: doc
 
-Я *(
-<a class="reference external" target="_blank" href="https://discord.com/users/813065322453925940" rel="nofollow noopener">
-    <code class="docutils literal notranslate"><span class="pre">@stngularity</span></code>
-</a>)* советую Вам начать со страницы рекомендаций
+Я советую Вам начать со страницы рекомендаций
 :::
 
 :::{grid-item-card} Важно
